@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "my-angular-crud-3d98d": {
+      "hosting": {
+        "crudOperation": [
+          "my-angular-crud-3d98d"
+        ]
+      }
+    }
+  }
+}

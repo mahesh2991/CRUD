@@ -1,0 +1,21 @@
+.hide{
+    display: none;
+}
+mat-footer-row mat-footer-cell{
+    justify-content: center;
+    font-style: italic;
+}
+
+.mySearch{
+    margin: 10px;
+}
+.mySearchFormField{
+    width: 70%;
+    margin-left: 10px;
+    padding: 5px 10px;
+    background-color: #fff;
+    color:crimson;
+    font-weight: bold;
+    font-size: 16px;
+    border-radius: 5px;
+}
